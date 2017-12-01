@@ -1,7 +1,7 @@
 body {
 	font-weight: 300;
 	font-family: 'Open Sans';
-	color: #333;
+	color: #FFF;
 	text-align: center;
 	margin: 0px;
 	height: 100%;
@@ -75,7 +75,7 @@ body {
 	box-shadow: 0 2px 4px 0 rgba(0,0,0,.24);
 	position: fixed;
 	z-index: 99;
-	background-color: #FFF;
+	background-color: #333;
 }
 .title-links {
 	margin-top: 10px;
